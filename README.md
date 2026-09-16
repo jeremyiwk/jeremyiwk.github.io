@@ -2,6 +2,8 @@
 
 A small personal site made with plain HTML and CSS. No build step or dependencies.
 
+Home, Bio, and Resume share a simple left-hand menu, which moves above the content on small screens. The navigation is included in each HTML file; update all three menus when adding a page.
+
 ## Preview
 
 Open `index.html` in a browser, or run `python3 -m http.server 8000` from this directory and visit `http://localhost:8000`.
